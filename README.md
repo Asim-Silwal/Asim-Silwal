@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asim-Silwal
 - 👀 I’m interested in technology, programming, artificial intelligence, and exploring new ideas.
-- 🌱 I’m currently learning machine learning algorithms, web development, and improving my problem-solving skills.
+- 🌱 I’m currently learning web development, and improving my problem-solving skills.
 - 💞️ I’m looking to collaborate on open source projects related to AI, web development, or anything innovative and exciting!
 - 📫 You can reach me via email at silwalasim70@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/asim-silwal-229801273/).
 - 😄 Pronouns: He/Him
